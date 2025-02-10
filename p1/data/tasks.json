@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2,
+        "title": "Node.js o‘rganish",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "She'r yod olish",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "title": "Node.js o‘rganish",
+        "completed": true
+    },
+    {
+        "id": 5,
+        "title": "Node.js o‘rganish",
+        "completed": true
+    },
+    {
+        "id": 6,
+        "title": "Node.js o‘rganish",
+        "completed": true
+    }
+]
